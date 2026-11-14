@@ -1,0 +1,83 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+nav {
+    background-color: #333;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+nav a:hover {
+    color: lightblue;
+}
+
+h1, h2 {
+    color: #315b82;
+}
+
+.intro {
+    background-color: #e0efff;
+    padding: 10px;
+}
+
+.fact {
+    color: darkgreen;
+    font-style: italic;
+}
+
+.goals {
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+}
+
+a {
+    color: #2468a0;
+}
+
+a:hover {
+    color: orange;
+}
+
+button {
+    background-color: #315b82;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #222;
+}
+
+audio {
+    margin: 10px 0;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+footer a {
+    color: lightblue;
+}
+#photo {
+    width: 300px;
+    height: auto;
+    margin-right: 20px;
+}
